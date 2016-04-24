@@ -10,7 +10,7 @@ title:            Pens and Planes!
 tagline:          'Ramblings on pens and planes'
 description:      'A Test Site...for now'
 url:              jmreekes.github.io
-paginate:         1
+paginate:         5
 baseurl:          ""
 
 author:
