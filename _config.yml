@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Pens and Planes!
 tagline:          'Ramblings on pens and planes'
 description:      'A Test Site...for now'
-url:              "www.pensandplanes.org"
+url:              'www.pensandplanes.org'
 paginate:         5
 baseurl:          ""
 
